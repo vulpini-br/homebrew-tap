@@ -2,10 +2,10 @@ cask "quadra" do
   version "1.1.0"
   sha256 "9c7fa64f1b8d3369ce590eb17a135053935ffdb6ce549f2d32511e11ab745d2d"
 
-  url "https://github.com/ahrmichelon/quadra/releases/download/v#{version}/Quadra.zip"
+  url "https://github.com/vulpini-br/quadra/releases/download/v#{version}/Quadra.zip"
   name "Quadra"
   desc "Arrange windows on a grid"
-  homepage "https://github.com/ahrmichelon/quadra"
+  homepage "https://github.com/vulpini-br/quadra"
 
   livecheck do
     url :url
