@@ -1,6 +1,6 @@
 cask "quadra" do
-  version "1.2.0"
-  sha256 "180c0587489a632b6d59df377569d6b7238615c54086583d8d69ff3fac78b001"
+  version "1.3.0"
+  sha256 "2bddd048184e1a3805a3ca6045ec61f6b16b28d4950d9c1543eee1afec93079b"
 
   url "https://github.com/vulpini-br/quadra/releases/download/v#{version}/Quadra.zip"
   name "Quadra"
